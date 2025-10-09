@@ -1,6 +1,4 @@
-Hiatus indefinido de la ingenieria . No hay cabida para las personas trans aqui :( -->
-
-pd: Igual voy a terminar la carrera con promedo 6.8 y titularme.. solo que una vez que lo haga quiero dar  vuelta la pagina de toda esta bullshit que me ha tocado vivir y dedicarme a otra cosa en donde no haya puros hombres ni tanta gente discriminadora. (amo la carrera y la ingenieria pero la Salud Mental es lo primero)
+Hiatus indefinido de la ingenieria . No hay cabida para las personas trans aqui :( 
 
 
 Un beso adios.
@@ -11,6 +9,6 @@ Un beso adios.
 
 Update:
 
-He vuelto de mi Hiatus Infefinido de La Ingenieria, para trabajar en una aplicacion de RUST.
+He vuelto de mi Hiatus Indefinido de La Ingenieria, para trabajar en una aplicacion de RUST.  (Sigo pensando que no hay cabida para las personas trans en Ambientes de Ingenieria Patriarcales y Corporativos.  Pero en Comunidades de Mujeres y en Rust hay mucha mas inclusividad)
 
 
