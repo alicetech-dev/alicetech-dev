@@ -8,6 +8,12 @@ Estoy constantemente estudiando y poniendo en practica cositas que aprendo, como
 
 Ahora estoy desarrollando un proyecto en ese tema.
 
+Durante el ultimo año, he ido buscando nuevos horizontes en el área de la Ciberseguridad
+
+Participando de competencias CTF y Comenzando la preparacion para rendir el examen Ejpt v2 para certificarme como pentester (hacker etico) de nivel junior.
+
+
+
 
 
 
