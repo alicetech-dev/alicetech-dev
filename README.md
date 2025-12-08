@@ -1,4 +1,4 @@
-Mi nombre es Alice.  Estudio Ingenieria Informatica.  estoy terminando segundo año.
+Mi nombre es Alice.  Estudio Analista Programador  estoy terminando segundo año. y Luego Continuaré Ingenieria Civil Informatica junto con viajar :)
 
 
 Me gusta mucho la programacion, el área de Inteligencia Artificial.
