@@ -1,4 +1,4 @@
-Mi nombre es Alice.  Estudio Analista Programador  estoy terminando segundo año.
+Mi nombre es Alice. 
 
 Me gusta mucho la programacion, LINUX y el área de Inteligencia Artificial.
 
